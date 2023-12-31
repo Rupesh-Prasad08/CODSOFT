@@ -1,0 +1,5 @@
+The program simulates a number guessing game where the system generates a random number within a specified range, typically between 1 and 100. The user is prompted to input their guess for this randomly generated number. Upon entering a guess, the system compares the user's input with the generated number, providing feedback on whether the guess is correct, too high, or too low. This feedback guides the user towards the correct answer.
+
+The game continues with steps 2 and 3 until the user correctly guesses the number or exhausts the allowed attempts. The system sets a limit on the number of attempts the user can make, ensuring a challenge within a defined scope.
+
+The program allows for multiple rounds, granting the user the option to replay the game. Throughout the game or rounds, the system maintains and displays the user's score, which could be based on either the number of attempts taken or the rounds won. This score-tracking feature adds an element of competition or self-improvement for the user, encouraging engagement and providing a measure of progress or achievement within the game.
